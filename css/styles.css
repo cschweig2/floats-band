@@ -1,0 +1,22 @@
+.left {
+float: left;
+}
+
+img {
+width: 40%;
+height: auto;
+}
+
+.sidebar {
+width: 30%;
+float: right;
+background: blue;
+}
+
+h1 {
+color: red;
+}
+
+.righty {
+float: right;
+}
